@@ -1,24 +1,7 @@
 ### 👋 Hi there  
 
-<div style="text-align: right">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleejieuns2&count_bg=%236BA4F8&title_bg=%230E1116&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"
-        style="height: auto; align="left" margin-left: 20px; margin-right: 20px; padding: 10px;"/> 
-</div>
 
-<div style="text-align: right">
-    <a href="https://instagram.com/leejieuns2">
-        <img 
-            src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/leejieuns2/"
-            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-    </a>
-    <img 
-        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleejieuns2&count_bg=%236BA4F8&title_bg=%230E1116&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"
-        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-</div>
-
-<br>
-
-<div id="main" style="text-align: right">
+<div id="main" align="center">
     <img 
         src="https://github-readme-stats.vercel.app/api?username=leejieuns2&hide=stars,contribs&count_private=true&show_icons=true"
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
@@ -54,6 +37,17 @@
 <p align="center">    
     <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </p>
+
+<div align="center">
+    <a href="https://instagram.com/leejieuns2">
+        <img 
+            src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/leejieuns2/"
+            style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+    </a>
+    <img 
+        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleejieuns2&count_bg=%236BA4F8&title_bg=%230E1116&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"
+        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+</div>
 
 <!--
 **leejieuns2/leejieuns2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
