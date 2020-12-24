@@ -1,15 +1,16 @@
-### 👋 Hi there  
+<p align="right">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleejieuns2&count_bg=%236BA4F8&title_bg=%230E1116&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"
+         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+</p>
 
 
-<div id="main" align="center">
-    <img 
-        src="https://github-readme-stats.vercel.app/api?username=leejieuns2&hide=stars,contribs&count_private=true&show_icons=true"
-        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-</div>
+## 👋 Hi there  
 
 
-### 👩🏻‍💻 Tech Stack 
----
+
+
+## 👩🏻‍💻 Tech Stack 
+
 <p align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
@@ -42,15 +43,22 @@
 
 ---
 
+
+<div id="main" align="center">
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=leejieuns2&hide=stars,contribs&count_private=true&show_icons=true"
+        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+</div>
+
+
+## 🙋🏻‍♀️ Contact me
+
 <div align="center">
     <a href="https://instagram.com/leejieuns2">
         <img 
             src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/leejieuns2/"
             style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
     </a>
-    <img 
-        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleejieuns2&count_bg=%236BA4F8&title_bg=%230E1116&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"
-        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 </div>
 
 <!--
