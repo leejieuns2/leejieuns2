@@ -7,6 +7,11 @@
 ## 👋 Hi there  
 
 
+<div id="main" align="center">
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=leejieuns2&hide=stars,contribs&count_private=true&show_icons=true"
+        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
+</div>
 
 
 ## 👩🏻‍💻 Tech Stack 
@@ -38,17 +43,6 @@
 <p align="center">    
     <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>
 </p>
-
-
-
----
-
-
-<div id="main" align="center">
-    <img 
-        src="https://github-readme-stats.vercel.app/api?username=leejieuns2&hide=stars,contribs&count_private=true&show_icons=true"
-        style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-</div>
 
 
 ## 🙋🏻‍♀️ Contact me
