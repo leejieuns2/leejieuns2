@@ -4,7 +4,12 @@
 </p>
 
 
-## 👋 Hi there  
+## 👋🏻 Hi there  
+
+- 👩🏻‍💼   Junior Web & App developer
+- 💻    usually using Java language for programmming
+- 👩🏻‍🏫   Student on a leave of absence
+<br>
 
 
 <div id="main" align="center">
