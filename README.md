@@ -6,9 +6,10 @@
 
 ## 👋🏻 Hi there  
 
-- 👩🏻‍💼   Junior Web & App developer
-- 💻    usually using Java language for programmming
-- 👩🏻‍🏫   Student on a leave of absence
+- 👩🏻‍💼   Department of CS (Computer Science)
+- 💻   Usually using Java language for programmming
+- 👩🏻‍🏫   Learn constantly and think creatively.
+
 <br>
 
 
